@@ -1,4 +1,4 @@
-# Scraping de Endereços de Estabelecimentos Comerciais e Organizações
+# Scraping de Agências dos Correios
 ## Este repositório contém um script de web scraping para coletar informações de agências dos Correios. O código foi desenvolvido para extrair e organizar dados de endereços, como nome da agência, logradouro, número, CEP, e informações de localização (latitude e longitude).
 
 ### Funcionalidades
